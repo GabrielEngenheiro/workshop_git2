@@ -1,2 +1,4 @@
 Nome: Gabriel
 Idade: 22
+Nome: Gustavo
+Idade: 21
